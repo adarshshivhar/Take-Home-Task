@@ -2,7 +2,7 @@
 
 ## Front-end Part
   - Step 1:- Clone this repository
-  - Step 2:- Open `courses-frontend-master` folder in Visual Studio Code
+  - Step 2:- Open `courses-frontend` folder in Visual Studio Code
   - Step 3:- Open Terminal and run `npm install` command to install all dependencies
   - Step 4:- Now run `npm start` command.
   - Step 5:- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -19,7 +19,7 @@
    
    ### Steps
    - Step 1:- Clone this repository
-   - Step 2:- Open `CourseRestApiMongoDB-master` folder in Visual Studio Code
+   - Step 2:- Open `CourseRestApiMongoDB` folder in Visual Studio Code
    - Step 3:- Open Terminal and run below commands to install all dependencies
       -  `pip install djangorestframework` :- Django REST framework helps us to build RESTful Web Services flexibly.
       -  `pip install djongo` :- Django MongoDb connector to work with MongoDb database.
