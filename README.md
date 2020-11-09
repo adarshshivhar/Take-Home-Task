@@ -19,7 +19,7 @@
    
    ### Steps
    - Step 1:- Clone this repository
-   - Step 2:- Open `CourseRestApiMongoDB-master` folder in Visual Studio Code
+   - Step 2:- Open `CourseRestApiMongoDB` folder in Visual Studio Code
    - Step 3:- Open Terminal and run below commands to install all dependencies
       -  `pip install djangorestframework` :- Django REST framework helps us to build RESTful Web Services flexibly.
       -  `pip install djongo` :- Django MongoDb connector to work with MongoDb database.
